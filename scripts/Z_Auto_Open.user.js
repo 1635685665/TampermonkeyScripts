@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Z_Auto_Open
 // @namespace    https://github.com/1635685665/TampermonkeyScripts
-// @version      1.0
+// @version      1.0.1
 // @author       ZYL
 // @description  自动展开阅读全部
 // @homepage     https://github.com/1635685665
-// @updateURL    https://raw.githack.com/1635685665/TampermonkeyScripts/master/scripts/Z_Auto_Open.user.js
-// @downloadURL  https://raw.githack.com/1635685665/TampermonkeyScripts/master/scripts/Z_Auto_Open.user.js
+// @updateURL    https://ghproxy.com/https://raw.githubusercontent.com/1635685665/TampermonkeyScripts/master/scripts/Z_Auto_Open.user.js
+// @downloadURL  https://ghproxy.com/https://raw.githubusercontent.com/1635685665/TampermonkeyScripts/master/scripts/Z_Auto_Open.user.js
 // @supportURL   https://github.com/1635685665/TampermonkeyScripts/issues
 // @match        *://blog.csdn.net/*/article/details/*
 // @match        *://bbs.csdn.net/topics/*

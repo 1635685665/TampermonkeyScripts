@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Z_HOW2J.CN_Tool
 // @namespace    https://github.com/1635685665/TampermonkeyScripts
-// @version      1.0
+// @version      1.0.1
 // @author       ZYL
 // @description  HOW2J.CN的辅助工具。调整视频默认2.5倍速播放。自动调整视频窗口位置。自动展开折叠代码。显示隐藏的内容。
 // @homepage     https://github.com/1635685665
-// @updateURL    https://raw.githack.com/1635685665/TampermonkeyScripts/master/scripts/Z_HOW2J.CN_Tool.user.js
-// @downloadURL  https://raw.githack.com/1635685665/TampermonkeyScripts/master/scripts/Z_HOW2J.CN_Tool.user.js
+// @updateURL    https://ghproxy.com/https://raw.githubusercontent.com/1635685665/TampermonkeyScripts/master/scripts/Z_HOW2J.CN_Tool.user.js
+// @downloadURL  https://ghproxy.com/https://raw.githubusercontent.com/1635685665/TampermonkeyScripts/master/scripts/Z_HOW2J.CN_Tool.user.js
 // @supportURL   https://github.com/1635685665/TampermonkeyScripts/issues
 // @match        *://how2j.cn/k/*
 // @run-at       document-end

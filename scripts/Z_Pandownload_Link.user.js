@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Z_Pandownload_Link
 // @namespace    https://github.com/1635685665/TampermonkeyScripts
-// @version      1.0
+// @version      1.0.1
 // @author       ZYL
 // @description  添加百度网盘分享文件快速跳转到Pandownload解析下载的按钮
 // @homepage     https://github.com/1635685665
-// @updateURL    https://raw.githack.com/1635685665/TampermonkeyScripts/master/scripts/Z_Pandownload_Link.user.js
-// @downloadURL  https://raw.githack.com/1635685665/TampermonkeyScripts/master/scripts/Z_Pandownload_Link.user.js
+// @updateURL    https://ghproxy.com/https://raw.githubusercontent.com/1635685665/TampermonkeyScripts/master/scripts/Z_Pandownload_Link.user.js
+// @downloadURL  https://ghproxy.com/https://raw.githubusercontent.com/1635685665/TampermonkeyScripts/master/scripts/Z_Pandownload_Link.user.js
 // @supportURL   https://github.com/1635685665/TampermonkeyScripts/issues
 // @match        *://yun.baidu.com/s*
 // @match        *://pan.baidu.com/s*

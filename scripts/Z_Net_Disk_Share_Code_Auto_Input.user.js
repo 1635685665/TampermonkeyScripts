@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Z_Net_Disk_Share_Code_Auto_Input
 // @namespace    https://github.com/1635685665/TampermonkeyScripts
-// @version      1.0
+// @version      1.0.1
 // @author       ZYL
 // @description  自动填写网盘分享码
 // @homepage     https://github.com/1635685665
-// @updateURL    https://raw.githack.com/1635685665/TampermonkeyScripts/master/scripts/Z_Net_Disk_Share_Code_Auto_Input.user.js
-// @downloadURL  https://raw.githack.com/1635685665/TampermonkeyScripts/master/scripts/Z_Net_Disk_Share_Code_Auto_Input.user.js
+// @updateURL    https://ghproxy.com/https://raw.githubusercontent.com/1635685665/TampermonkeyScripts/master/scripts/Z_Net_Disk_Share_Code_Auto_Input.user.js
+// @downloadURL  https://ghproxy.com/https://raw.githubusercontent.com/1635685665/TampermonkeyScripts/master/scripts/Z_Net_Disk_Share_Code_Auto_Input.user.js
 // @supportURL   https://github.com/1635685665/TampermonkeyScripts/issues
 // @match        *://yun.baidu.com/s*
 // @match        *://pan.baidu.com/s*

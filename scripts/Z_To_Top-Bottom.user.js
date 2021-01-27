@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Z_To_Top-Bottom
 // @namespace    https://github.com/1635685665/TampermonkeyScripts
-// @version      1.0
+// @version      1.0.1
 // @author       ZYL
 // @description  一键顶部/底部
 // @homepage     https://github.com/1635685665
-// @updateURL    https://raw.githack.com/1635685665/TampermonkeyScripts/master/scripts/Z_To_Top-Bottom.user.js
-// @downloadURL  https://raw.githack.com/1635685665/TampermonkeyScripts/master/scripts/Z_To_Top-Bottom.user.js
+// @updateURL    https://ghproxy.com/https://raw.githubusercontent.com/1635685665/TampermonkeyScripts/master/scripts/Z_To_Top-Bottom.user.js
+// @downloadURL  https://ghproxy.com/https://raw.githubusercontent.com/1635685665/TampermonkeyScripts/master/scripts/Z_To_Top-Bottom.user.js
 // @supportURL   https://github.com/1635685665/TampermonkeyScripts/issues
 // @match        *://*/*
 // @run-at       document-body

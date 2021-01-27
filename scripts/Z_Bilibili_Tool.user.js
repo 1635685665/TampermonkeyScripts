@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Z_Bilibili_Tool
 // @namespace    https://github.com/1635685665/TampermonkeyScripts
-// @version      1.0
+// @version      1.0.1
 // @author       ZYL
 // @description  哔哩哔哩的辅助工具。自动宽屏播放。调整视频默认2.5倍速播放。自动调整视频窗口位置。关闭弹幕。
 // @homepage     https://github.com/1635685665
-// @updateURL    https://raw.githack.com/1635685665/TampermonkeyScripts/master/scripts/Z_Bilibili_Tool.user.js
-// @downloadURL  https://raw.githack.com/1635685665/TampermonkeyScripts/master/scripts/Z_Bilibili_Tool.user.js
+// @updateURL    https://ghproxy.com/https://raw.githubusercontent.com/1635685665/TampermonkeyScripts/master/scripts/Z_Bilibili_Tool.user.js
+// @downloadURL  https://ghproxy.com/https://raw.githubusercontent.com/1635685665/TampermonkeyScripts/master/scripts/Z_Bilibili_Tool.user.js
 // @supportURL   https://github.com/1635685665/TampermonkeyScripts/issues
 // @match        *://www.bilibili.com/bangumi/*
 // @match        *://www.bilibili.com/video/*

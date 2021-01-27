@@ -6,7 +6,7 @@
 
 更改WebKit内核浏览器滚动条样式
 
-[点击安装](https://raw.githack.com/1635685665/TampermonkeyScripts/master/scripts/Z_Scrollbar_Style.user.js)
+[点击安装](https://ghproxy.com/https://raw.githubusercontent.com/1635685665/TampermonkeyScripts/master/scripts/Z_Scrollbar_Style.user.js)
 
 使用之前：
 
@@ -20,7 +20,7 @@
 
 在右侧添加两个按钮，方便一键跳转到网页顶部/底部
 
-[点击安装](https://raw.githack.com/1635685665/TampermonkeyScripts/master/scripts/Z_To_Top-Bottom.user.js)
+[点击安装](https://ghproxy.com/https://raw.githubusercontent.com/1635685665/TampermonkeyScripts/master/scripts/Z_To_Top-Bottom.user.js)
 
 使用之前：
 
@@ -36,7 +36,7 @@
 
 现在匹配的页面还比较少，准备慢慢添加
 
-[点击安装](https://raw.githack.com/1635685665/TampermonkeyScripts/master/scripts/Z_Auto_Open.user.js)
+[点击安装](https://ghproxy.com/https://raw.githubusercontent.com/1635685665/TampermonkeyScripts/master/scripts/Z_Auto_Open.user.js)
 
 使用之前：
 
@@ -50,7 +50,7 @@
 
 自动填写网盘分享码
 
-[点击安装](https://raw.githack.com/1635685665/TampermonkeyScripts/master/scripts/Z_Net_Disk_Share_Code_Auto_Input.user.js)
+[点击安装](https://ghproxy.com/https://raw.githubusercontent.com/1635685665/TampermonkeyScripts/master/scripts/Z_Net_Disk_Share_Code_Auto_Input.user.js)
 
 现在只有百度网盘。。。
 
@@ -58,7 +58,7 @@
 
 添加百度网盘分享文件快速跳转到Pandownload解析下载的按钮
 
-[点击安装](https://raw.githack.com/1635685665/TampermonkeyScripts/master/scripts/Z_Pandownload_Link.user.js)
+[点击安装](https://ghproxy.com/https://raw.githubusercontent.com/1635685665/TampermonkeyScripts/master/scripts/Z_Pandownload_Link.user.js)
 
 ## [Z_Baidu_Style](./scripts/Z_Baidu_Style.user.js)
 
@@ -67,7 +67,7 @@
 - 调整样式。
 - 移除广告。
 
-[点击安装](https://raw.githack.com/1635685665/TampermonkeyScripts/master/scripts/Z_Baidu_Style.user.js)
+[点击安装](https://ghproxy.com/https://raw.githubusercontent.com/1635685665/TampermonkeyScripts/master/scripts/Z_Baidu_Style.user.js)
 
 使用之前：
 
@@ -90,7 +90,7 @@
 - 自动调整视频窗口位置。
 - 关闭弹幕。
 
-[点击安装](https://raw.githack.com/1635685665/TampermonkeyScripts/master/scripts/Z_Bilibili_Tool.user.js)
+[点击安装](https://ghproxy.com/https://raw.githubusercontent.com/1635685665/TampermonkeyScripts/master/scripts/Z_Bilibili_Tool.user.js)
 
 ## [Z_HOW2J.CN_Tool](./scripts/Z_HOW2J.CN_Tool.user.js)
 
@@ -101,4 +101,4 @@ HOW2J.CN的辅助工具。
 - 自动展开折叠代码。
 - 显示隐藏的内容。
 
-[点击安装](https://raw.githack.com/1635685665/TampermonkeyScripts/master/scripts/Z_HOW2J.CN_Tool.user.js)
+[点击安装](https://ghproxy.com/https://raw.githubusercontent.com/1635685665/TampermonkeyScripts/master/scripts/Z_HOW2J.CN_Tool.user.js)
