@@ -81,7 +81,7 @@
 
 ![Z_Baidu_Style使用之后](./images/Z_Baidu_Style_after_2.png)
 
-## [Z_BiliBili_Tool](./scripts/Z_BiliBili_Tool.user.js)
+## [Z_Bilibili_Tool](./scripts/Z_Bilibili_Tool.user.js)
 
 哔哩哔哩的辅助工具。
 
